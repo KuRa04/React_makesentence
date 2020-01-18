@@ -1,0 +1,19 @@
+.app__ttl{
+    border: 2px solid #333;
+}
+
+.btn__col{
+    width: 50px;
+    height: 50px;
+    outline:none;
+}
+
+.search__box{
+    display: block;
+}
+
+
+.search__form{
+    outline: none;
+    font-size: 1.5rem;
+}

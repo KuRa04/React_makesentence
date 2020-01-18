@@ -1,0 +1,26 @@
+form{ 
+    margin: 0 auto;
+}
+
+.form__ttl{
+    width:400px;
+    outline:none;
+    border: 2px solid #444;
+    font-size: 3rem;
+}
+
+.form__main{   
+    width:400px;
+    margin-top: 5px;
+    outline:none;
+    border: 2px solid #444;
+    font-size: 3rem;
+}
+
+.form__btn{
+    width:２00px;
+    margin-left: 30px;
+    outline:none;
+    border: 2px solid #444;
+    font-size: 1.5rem;
+}
